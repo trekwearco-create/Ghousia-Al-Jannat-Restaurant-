@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+:root {
+  --accent: #ff4630;
+  --ink: #1c1b1a;
+  --cream: #faf8f6;
+  --paper: #fffdfb;
+  --line: #ede7e1;
+  --muted: #8a8580;
+}
+
+html,
+body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-display), system-ui, sans-serif;
+}
+
+.font-mono-ticket {
+  font-family: var(--font-mono), ui-monospace, monospace;
+}
+
+.ticket-price {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  letter-spacing: -0.03em;
+}
+
+button {
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #d9d0c7;
+  border-radius: 99px;
+}
