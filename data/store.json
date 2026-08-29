@@ -1,0 +1,909 @@
+{
+  "categories": [
+    {
+      "id": "chicken-roll",
+      "name": "Chicken Roll",
+      "displayOrder": 1
+    },
+    {
+      "id": "malai-roll",
+      "name": "Chicken Malai Boti Roll",
+      "displayOrder": 2
+    },
+    {
+      "id": "beef-roll",
+      "name": "Beef Boti Roll",
+      "displayOrder": 3
+    },
+    {
+      "id": "bbq",
+      "name": "Bar B.Q",
+      "displayOrder": 4
+    },
+    {
+      "id": "desi",
+      "name": "Desi Foods",
+      "displayOrder": 5
+    },
+    {
+      "id": "shawarma",
+      "name": "Shawarma",
+      "displayOrder": 6
+    },
+    {
+      "id": "broast",
+      "name": "Chicken Broast",
+      "displayOrder": 7
+    },
+    {
+      "id": "zinger",
+      "name": "Zinger & Chicken",
+      "displayOrder": 8
+    },
+    {
+      "id": "beef-burger",
+      "name": "Beef Burger",
+      "displayOrder": 9
+    },
+    {
+      "id": "sandwiches",
+      "name": "Sandwiches",
+      "displayOrder": 10
+    },
+    {
+      "id": "fries",
+      "name": "French Fries",
+      "displayOrder": 11
+    },
+    {
+      "id": "karahi",
+      "name": "Koyla Karahi",
+      "displayOrder": 12
+    },
+    {
+      "id": "noodles",
+      "name": "Noodles & Spaghetti",
+      "displayOrder": 13
+    }
+  ],
+  "menuItems": [
+    {
+      "id": "cr1",
+      "name": "Chicken Chatni Roll",
+      "categoryId": "chicken-roll",
+      "price": 190,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "cr2",
+      "name": "Chicken Garlic Mayo Roll",
+      "categoryId": "chicken-roll",
+      "price": 230,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "cr3",
+      "name": "Chicken Mayo Cheese Roll",
+      "categoryId": "chicken-roll",
+      "price": 270,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "cr4",
+      "name": "Garlic Mayo Roll",
+      "categoryId": "chicken-roll",
+      "price": 220,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "cr5",
+      "name": "Chicken Spicy Mayo Roll",
+      "categoryId": "chicken-roll",
+      "price": 250,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "cr6",
+      "name": "Chicken Crispy Roll",
+      "categoryId": "chicken-roll",
+      "price": 280,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "cr7",
+      "name": "Chicken Crispy Cheese Roll",
+      "categoryId": "chicken-roll",
+      "price": 350,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "mr1",
+      "name": "Chicken Malai Chatni Roll",
+      "categoryId": "malai-roll",
+      "price": 220,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "mr2",
+      "name": "Chicken Malai Garlic Mayo Roll",
+      "categoryId": "malai-roll",
+      "price": 240,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "mr3",
+      "name": "Chicken Malai Cheese Roll",
+      "categoryId": "malai-roll",
+      "price": 280,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "br1",
+      "name": "Beef Boti Roll",
+      "categoryId": "beef-roll",
+      "price": 220,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "br2",
+      "name": "Beef Garlic Mayo Roll",
+      "categoryId": "beef-roll",
+      "price": 280,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "br3",
+      "name": "Beef Mayo Cheese Roll",
+      "categoryId": "beef-roll",
+      "price": 300,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "br4",
+      "name": "Beef Kabab Roll",
+      "categoryId": "beef-roll",
+      "price": 180,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq1",
+      "name": "Chicken Tikka Leg",
+      "categoryId": "bbq",
+      "price": 360,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq2",
+      "name": "Chicken Tikka Chest",
+      "categoryId": "bbq",
+      "price": 400,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq3",
+      "name": "Chicken Bihari Tikka Chest",
+      "categoryId": "bbq",
+      "price": 430,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq4",
+      "name": "Chicken Malai Tikka Chest",
+      "categoryId": "bbq",
+      "price": 450,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq5",
+      "name": "Chicken Boti Boneless",
+      "categoryId": "bbq",
+      "price": 450,
+      "emoji": "🍢",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq6",
+      "name": "Chicken Malai Boti Boneless",
+      "categoryId": "bbq",
+      "price": 500,
+      "emoji": "🍢",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq7",
+      "name": "Beef Bihari Boti",
+      "categoryId": "bbq",
+      "price": 500,
+      "emoji": "🍢",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq8",
+      "name": "Beef Seekh Kabab",
+      "categoryId": "bbq",
+      "price": 450,
+      "emoji": "🍢",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq9",
+      "name": "Beef Gola Kabab",
+      "categoryId": "bbq",
+      "price": 500,
+      "emoji": "🍢",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq10",
+      "name": "Chandan Kabab",
+      "categoryId": "bbq",
+      "price": 500,
+      "emoji": "🍢",
+      "isAvailable": true
+    },
+    {
+      "id": "bbq11",
+      "name": "Chicken Reshmi Kabab",
+      "categoryId": "bbq",
+      "price": 490,
+      "emoji": "🍢",
+      "isAvailable": true
+    },
+    {
+      "id": "ds1",
+      "name": "Chicken Biryani (1/5 Kg)",
+      "categoryId": "desi",
+      "price": 290,
+      "emoji": "🍛",
+      "isAvailable": true
+    },
+    {
+      "id": "ds2",
+      "name": "Aloo Wale Biryani (1/5 Kg)",
+      "categoryId": "desi",
+      "price": 190,
+      "emoji": "🍛",
+      "isAvailable": true
+    },
+    {
+      "id": "ds3",
+      "name": "Sada Burger",
+      "categoryId": "desi",
+      "price": 90,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "ds4",
+      "name": "Anda Wala Burger",
+      "categoryId": "desi",
+      "price": 140,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "sh1",
+      "name": "Chicken Shawarma",
+      "categoryId": "shawarma",
+      "price": 180,
+      "emoji": "🥙",
+      "isAvailable": true
+    },
+    {
+      "id": "sh2",
+      "name": "Arabian Shawarma",
+      "categoryId": "shawarma",
+      "price": 200,
+      "emoji": "🥙",
+      "isAvailable": true
+    },
+    {
+      "id": "sh3",
+      "name": "Arabian Roll",
+      "categoryId": "shawarma",
+      "price": 200,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "sh4",
+      "name": "BM-P Roll",
+      "categoryId": "shawarma",
+      "price": 180,
+      "emoji": "🌯",
+      "isAvailable": true
+    },
+    {
+      "id": "bro1",
+      "name": "Chicken Broast Full (2 Chest, 2 Leg)",
+      "categoryId": "broast",
+      "price": 1700,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bro2",
+      "name": "Chicken Broast Half (1 Chest, 1 Leg)",
+      "categoryId": "broast",
+      "price": 900,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bro3",
+      "name": "Chicken Broast (Chest)",
+      "categoryId": "broast",
+      "price": 470,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bro4",
+      "name": "Chicken Broast (Leg)",
+      "categoryId": "broast",
+      "price": 430,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bro5",
+      "name": "Chatpata Broast (Chest)",
+      "categoryId": "broast",
+      "price": 450,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bro6",
+      "name": "Chatpata Broast (Leg)",
+      "categoryId": "broast",
+      "price": 450,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bro7",
+      "name": "Mayo Garlic Broast (Leg)",
+      "categoryId": "broast",
+      "price": 470,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "bro8",
+      "name": "Mayo Garlic Broast (Chest)",
+      "categoryId": "broast",
+      "price": 530,
+      "emoji": "🍗",
+      "isAvailable": true
+    },
+    {
+      "id": "zg1",
+      "name": "Zinger Burger with Fries",
+      "categoryId": "zinger",
+      "price": 270,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg2",
+      "name": "Zinger Cheese Burger with Fries",
+      "categoryId": "zinger",
+      "price": 330,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg3",
+      "name": "Zinger Burger without Fries",
+      "categoryId": "zinger",
+      "price": 240,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg4",
+      "name": "Chicken Burger",
+      "categoryId": "zinger",
+      "price": 270,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg5",
+      "name": "Chicken Cheese Burger",
+      "categoryId": "zinger",
+      "price": 330,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg6",
+      "name": "Hot Zinger",
+      "categoryId": "zinger",
+      "price": 320,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg7",
+      "name": "Arabian Zinger with Fries",
+      "categoryId": "zinger",
+      "price": 330,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg8",
+      "name": "Double Dip Zinger with Fries",
+      "categoryId": "zinger",
+      "price": 500,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg9",
+      "name": "Double Dip Zinger with Cheese Fries",
+      "categoryId": "zinger",
+      "price": 550,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg10",
+      "name": "Chicken Double Decker Burger",
+      "categoryId": "zinger",
+      "price": 450,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "zg11",
+      "name": "Chicken Double Decker Cheese",
+      "categoryId": "zinger",
+      "price": 500,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "bf1",
+      "name": "Beef Burger with Fries",
+      "categoryId": "beef-burger",
+      "price": 300,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "bf2",
+      "name": "Beef Cheese Burger with Fries",
+      "categoryId": "beef-burger",
+      "price": 350,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "bf3",
+      "name": "Beef Double Decker Burger",
+      "categoryId": "beef-burger",
+      "price": 500,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "bf4",
+      "name": "Beef Double Decker Burger with Cheese",
+      "categoryId": "beef-burger",
+      "price": 550,
+      "emoji": "🍔",
+      "isAvailable": true
+    },
+    {
+      "id": "sw1",
+      "name": "Chicken Sandwich",
+      "categoryId": "sandwiches",
+      "price": 280,
+      "emoji": "🥪",
+      "isAvailable": true
+    },
+    {
+      "id": "sw2",
+      "name": "Chicken Sandwich with Cheese",
+      "categoryId": "sandwiches",
+      "price": 340,
+      "emoji": "🥪",
+      "isAvailable": true
+    },
+    {
+      "id": "sw3",
+      "name": "Club Sandwich",
+      "categoryId": "sandwiches",
+      "price": 350,
+      "emoji": "🥪",
+      "isAvailable": true
+    },
+    {
+      "id": "sw4",
+      "name": "Club Sandwich with Cheese",
+      "categoryId": "sandwiches",
+      "price": 400,
+      "emoji": "🥪",
+      "isAvailable": true
+    },
+    {
+      "id": "sw5",
+      "name": "BBQ Club Sandwich",
+      "categoryId": "sandwiches",
+      "price": 400,
+      "emoji": "🥪",
+      "isAvailable": true
+    },
+    {
+      "id": "sw6",
+      "name": "Crispy Club Sandwich",
+      "categoryId": "sandwiches",
+      "price": 330,
+      "emoji": "🥪",
+      "isAvailable": true
+    },
+    {
+      "id": "sw7",
+      "name": "Crispy Club Sandwich with Cheese",
+      "categoryId": "sandwiches",
+      "price": 380,
+      "emoji": "🥪",
+      "isAvailable": true
+    },
+    {
+      "id": "sw8",
+      "name": "BBQ Club Sandwich with Cheese",
+      "categoryId": "sandwiches",
+      "price": 450,
+      "emoji": "🥪",
+      "isAvailable": true
+    },
+    {
+      "id": "fr1",
+      "name": "Crispy Fries",
+      "categoryId": "fries",
+      "price": 250,
+      "emoji": "🍟",
+      "isAvailable": true
+    },
+    {
+      "id": "fr2",
+      "name": "Regular Fries",
+      "categoryId": "fries",
+      "price": 100,
+      "emoji": "🍟",
+      "isAvailable": true
+    },
+    {
+      "id": "fr3",
+      "name": "Mayo Garlic Fries",
+      "categoryId": "fries",
+      "price": 200,
+      "emoji": "🍟",
+      "isAvailable": true
+    },
+    {
+      "id": "kh1",
+      "name": "Plain Karahi",
+      "categoryId": "karahi",
+      "price": 1600,
+      "emoji": "🥘",
+      "isAvailable": true,
+      "variantPrice": 800,
+      "variantLabel": "Half",
+      "description": "Full Rs 1600 · Half Rs 800"
+    },
+    {
+      "id": "kh2",
+      "name": "White Karahi",
+      "categoryId": "karahi",
+      "price": 1700,
+      "emoji": "🥘",
+      "isAvailable": true,
+      "variantPrice": 850,
+      "variantLabel": "Half",
+      "description": "Full Rs 1700 · Half Rs 850"
+    },
+    {
+      "id": "kh3",
+      "name": "Peshawari Karahi",
+      "categoryId": "karahi",
+      "price": 1700,
+      "emoji": "🥘",
+      "isAvailable": true,
+      "variantPrice": 850,
+      "variantLabel": "Half",
+      "description": "Full Rs 1700 · Half Rs 850"
+    },
+    {
+      "id": "kh4",
+      "name": "Balochi Karahi",
+      "categoryId": "karahi",
+      "price": 1800,
+      "emoji": "🥘",
+      "isAvailable": true,
+      "variantPrice": 900,
+      "variantLabel": "Half",
+      "description": "Full Rs 1800 · Half Rs 900"
+    },
+    {
+      "id": "kh5",
+      "name": "Chicken Handi (Boneless)",
+      "categoryId": "karahi",
+      "price": 1800,
+      "emoji": "🥘",
+      "isAvailable": true,
+      "variantPrice": 900,
+      "variantLabel": "Half",
+      "description": "Full Rs 1800 · Half Rs 900"
+    },
+    {
+      "id": "kh6",
+      "name": "Chicken Handi Plate",
+      "categoryId": "karahi",
+      "price": 400,
+      "emoji": "🥘",
+      "isAvailable": true
+    },
+    {
+      "id": "nd1",
+      "name": "Chicken Chow Mein",
+      "categoryId": "noodles",
+      "price": 450,
+      "emoji": "🍜",
+      "isAvailable": true
+    },
+    {
+      "id": "nd2",
+      "name": "Vegetable Chow Mein",
+      "categoryId": "noodles",
+      "price": 380,
+      "emoji": "🍜",
+      "isAvailable": true
+    }
+  ],
+  "deals": [
+    {
+      "id": "d1",
+      "title": "Deal 1",
+      "price": 500,
+      "isActive": true,
+      "description": "1 Zinger Burger, 1 Chicken Burger, Fries & Coleslaw"
+    },
+    {
+      "id": "d2",
+      "title": "Deal 2",
+      "price": 450,
+      "isActive": true,
+      "description": "1 Twister Roll, 1 Chicken Sandwich, Fries & Coleslaw"
+    },
+    {
+      "id": "d3",
+      "title": "Deal 3",
+      "price": 650,
+      "isActive": true,
+      "description": "1 Qtr. Broast (Leg), 1 Beef Burger, Fries & Coleslaw"
+    },
+    {
+      "id": "d4",
+      "title": "Deal 4",
+      "price": 650,
+      "isActive": true,
+      "description": "1 Qtr. Broast (Leg), 1 Chicken Burger, Fries & Coleslaw"
+    },
+    {
+      "id": "d5",
+      "title": "Deal 5",
+      "price": 1350,
+      "isActive": true,
+      "description": "2 Qtr. Broast (Leg), 2 Zinger Burger, Fries & Coleslaw"
+    },
+    {
+      "id": "d6",
+      "title": "Deal 6",
+      "price": 1250,
+      "isActive": true,
+      "description": "1 Club Sandwich, 2 Zinger Burger, 1 Qtr. Broast (Leg), Fries & Coleslaw"
+    },
+    {
+      "id": "d7",
+      "title": "Deal 7",
+      "price": 850,
+      "isActive": true,
+      "description": "1 Club Sandwich, 1 Zinger Burger, 1 Beef Burger, Fries & Coleslaw"
+    },
+    {
+      "id": "d8",
+      "title": "Deal 8",
+      "price": 600,
+      "isActive": true,
+      "description": "1 Chicken Sandwich, 1 Qtr. Broast (Leg), Fries & Coleslaw"
+    },
+    {
+      "id": "d9",
+      "title": "Deal 9",
+      "price": 1250,
+      "isActive": true,
+      "description": "2 Zinger, 1 Chest Broast, 1 Beef Burger, Fries & Coleslaw"
+    },
+    {
+      "id": "d10",
+      "title": "Deal 10",
+      "price": 800,
+      "isActive": true,
+      "description": "1 Twister Roll, 2 Zinger Burger, Fries & Coleslaw"
+    },
+    {
+      "id": "d11",
+      "title": "Deal 11",
+      "price": 1900,
+      "isActive": true,
+      "description": "2 Broast (Leg), 2 Zinger Burger, 2 Club Sandwich, Fries & Coleslaw"
+    },
+    {
+      "id": "d12",
+      "title": "Deal 12",
+      "price": 2700,
+      "isActive": true,
+      "description": "4 Qtr. Broast (2 Leg, 2 Chest), 4 Zinger, Fries & Coleslaw"
+    },
+    {
+      "id": "d13",
+      "title": "Deal 13",
+      "price": 950,
+      "isActive": true,
+      "description": "1 Broast Chest, 1 Club Sandwich, 1 Crispy Roll, Fries & Coleslaw"
+    },
+    {
+      "id": "d14",
+      "title": "Deal 14",
+      "price": 950,
+      "isActive": true,
+      "description": "1 Zinger, 1 Double Decker Chicken Burger, 1 Club Sandwich, Fries & Coleslaw"
+    },
+    {
+      "id": "d15",
+      "title": "Deal 15",
+      "price": 1500,
+      "isActive": true,
+      "description": "2 Club Sandwich, 2 Zinger Burger, 2 Twister Roll, Fries & Coleslaw"
+    },
+    {
+      "id": "d16",
+      "title": "Deal 16",
+      "price": 450,
+      "isActive": true,
+      "description": "1 Chicken Roll, 1 Bar B.Q Sandwich, Fries & Coleslaw"
+    },
+    {
+      "id": "d17",
+      "title": "Deal 17",
+      "price": 1150,
+      "isActive": true,
+      "description": "2 Tikka Leg, 2 Paratha, 2 Chicken Mayo Roll, Raita & Salad"
+    },
+    {
+      "id": "d18",
+      "title": "Deal 18",
+      "price": 550,
+      "isActive": true,
+      "description": "1 Tikka Leg, 1 Paratha, 1 Chicken Roll"
+    },
+    {
+      "id": "d19",
+      "title": "Deal 19",
+      "price": 650,
+      "isActive": true,
+      "description": "1 Chicken Boti Boneless, 1 Chicken Mayo Roll, 1 Paratha"
+    },
+    {
+      "id": "d20",
+      "title": "Deal 20",
+      "price": 450,
+      "isActive": true,
+      "description": "1 Beef Burger, 1 Chicken Roll, Fries & Coleslaw"
+    },
+    {
+      "id": "d21",
+      "title": "Deal 21",
+      "price": 1000,
+      "isActive": true,
+      "description": "1 Chicken Burger, 1 Zinger Burger, 1 Tikka Leg, 1 Large Paratha, Raita & Salad"
+    },
+    {
+      "id": "d22",
+      "title": "Deal 22",
+      "price": 1750,
+      "isActive": true,
+      "description": "2 Tikka Chest, 2 Chicken Roll, 1 Seekh Kabab, 4 Paratha, Raita & Salad"
+    },
+    {
+      "id": "d23",
+      "title": "Deal 23",
+      "price": 900,
+      "isActive": true,
+      "description": "2 Zinger Burger, 2 Kabab Roll, Fries & Coleslaw"
+    },
+    {
+      "id": "d24",
+      "title": "Deal 24",
+      "price": 1050,
+      "isActive": true,
+      "description": "1 Zinger Burger, 1 Broast Leg, 1 Chicken Mayo Roll, 1 Kabab Roll, Fries & Coleslaw"
+    },
+    {
+      "id": "d25",
+      "title": "Deal 25",
+      "price": 950,
+      "isActive": true,
+      "description": "1 Chicken Burger, 1 Beef Burger, 1 Beef Roll, 1 Chicken Roll, Fries & Coleslaw"
+    },
+    {
+      "id": "d26",
+      "title": "Deal 26",
+      "price": 1300,
+      "isActive": true,
+      "description": "2 Seekh Kabab, 1 Tikka Leg, 1 Paratha, Raita & Salad"
+    },
+    {
+      "id": "d27",
+      "title": "Deal 27",
+      "price": 1100,
+      "isActive": true,
+      "description": "1 Tikka Leg, 1 Qtr. Broast Leg, 1 Beef Burger, 1 Paratha, Raita & Salad"
+    },
+    {
+      "id": "d28",
+      "title": "Deal 28",
+      "price": 1100,
+      "isActive": true,
+      "description": "1 Tikka Leg, 1 Reshmi Kabab, 1 Zinger Burger, 1 Paratha, Raita & Salad"
+    }
+  ],
+  "orders": [
+    {
+      "customerName": "Umar qureshi",
+      "customerPhone": "03048184845",
+      "customerAddress": "1448/2",
+      "orderType": "delivery",
+      "paymentMethod": "COD",
+      "paymentStatus": "paid",
+      "items": [
+        {
+          "kind": "deal",
+          "id": "d1",
+          "name": "Deal 1",
+          "quantity": 1,
+          "unitPrice": 500
+        }
+      ],
+      "totalAmount": 500,
+      "id": "38ce1e79-8196-4acc-8572-45e6d6312bb9",
+      "orderNumber": "GFF-00231",
+      "orderStatus": "Completed",
+      "createdAt": "2026-08-28T12:14:13.670Z"
+    }
+  ],
+  "orderSeq": 231
+}
